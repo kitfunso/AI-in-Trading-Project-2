@@ -6,4 +6,4 @@ Breakout Strategy Workspace
     
   Signals Evaluation
   Outliers functions:
-  k test
+  ks test
